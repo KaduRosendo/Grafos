@@ -13,6 +13,7 @@ tipo de material sem andar muito. Isso deixa a reciclagem mais acessível e enco
 participar. No fim, a ideia é que essas informações estejam sempre à mão, adaptadas ao dia a dia e
 sem complicações.
 
+![ods](https://github.com/user-attachments/assets/5df542f4-8d10-421b-a0b5-90985bc19e5f)
 
 ## Grafo feito no Graph Online
 

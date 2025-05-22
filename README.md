@@ -10,5 +10,4 @@ Carlos Eduardo Rosendo Basseto - 10409941
 
 Luiz Henrique Ribeiro Pulga - 10409246
 
-Isabella Rodrigues de Oliveira - 10357696
 

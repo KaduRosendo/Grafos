@@ -14,6 +14,7 @@ Luiz Henrique Ribeiro Pulga - 10409246
 
 - Relatório atualizado do projeto 2
 - Arquivo .py relacionado ao projeto Reclica Fluxo
+- Vídeo: https://youtu.be/OTieR-5FnPw?si=qSu4o94ulp3d_Cr1
 
 ### Alterações:
 
